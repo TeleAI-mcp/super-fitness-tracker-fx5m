@@ -1,2 +1,3 @@
-# super-fitness-tracker-fx5m
-Automated issue comment bot repository
+# Super Fitness Tracker Fx5M
+
+Automated issue comment bot repository.
